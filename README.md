@@ -13,3 +13,6 @@ For python client
 python ^3.x 
 pyautogui
 ```
+
+## Notes
+I made this because i'm too poor to buy a barcode scanner hardware :D
