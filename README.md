@@ -1,4 +1,4 @@
-# Barcode-Scanner-Emulator
+# Barcode-Scanner-Emulator by JTMN
 
 A Simple Barcode Scanner Device "Emulator" Built using python and MIT App Inventor
 
